@@ -1,7 +1,7 @@
 # Scheme-Interpreter
 Short piece of a program for a small scaled course project
 
-This software interprets a subset of scheme which is defined by the the following grammer:
+This software interprets a subset of scheme which is defined by the the following grammar:
 
 \<s6-interpreter\> -\> \<expr\>
       | \<define\>
